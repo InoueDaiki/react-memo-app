@@ -1,3 +1,13 @@
+# Reactで作るメモ帳アプリ
+
+[![Build Status](https://travis-ci.com/InoueDaiki/react-memo-app.svg?branch=main)](https://travis-ci.com/InoueDaiki/react-memo-app)
+
+## デモサイト
+
+https://inouedaiki.github.io/react-memo-app/
+
+# Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
