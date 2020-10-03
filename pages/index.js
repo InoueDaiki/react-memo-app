@@ -7,7 +7,7 @@ export default function Home() {
     <Layout>
       <Row>
         <Col sm>
-          <Card border="light">
+          <Card>
             <Card.Body>
               <Card.Title>Todo</Card.Title>
               <Card.Text>
@@ -15,7 +15,7 @@ export default function Home() {
                 <br />
                 Memoを紐づけることで情報の整理も可能です
               </Card.Text>
-              <Link href="/todo">
+              <Link href="/todos">
                 <Button>Todo一覧へ</Button>
               </Link>
             </Card.Body>
@@ -23,7 +23,7 @@ export default function Home() {
         </Col>
 
         <Col sm>
-          <Card border="light">
+          <Card>
             <Card.Body>
               <Card.Title>Memo</Card.Title>
               <Card.Text>

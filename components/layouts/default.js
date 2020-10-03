@@ -28,8 +28,8 @@ export default function Layout({
             <Link href="/">
               <Nav.Link href="/">Home</Nav.Link>
             </Link>
-            <Link href="/todo">
-              <Nav.Link href="/todo">Todo</Nav.Link>
+            <Link href="/todos">
+              <Nav.Link href="/todos">Todo</Nav.Link>
             </Link>
             <Link href="/memo">
               <Nav.Link href="/memo">Memo</Nav.Link>
